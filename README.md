@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hi. I'm a senior Blockchain and Fullstack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue.js, Node, Nest), Python (Django, Flask) and so on.
-Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
+Hi. I'm a senior Blockchain and Fullstack developer who likes to work with Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), JavaScript/Typescript (React, Angular, Vue.js, Node, Nest), Python (Django, Flask), and so on.
+Since I've graduated the university, I’ve joined several companies and dev teams to build web and Defi apps.
 
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
+Nowadays I am passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
 ### Languages and Tools:
 
